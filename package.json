@@ -1,0 +1,17 @@
+{
+  "name": "Probability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
